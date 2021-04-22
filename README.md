@@ -1,2 +1,7 @@
-# deep-learning-performance
-Experiments and results on tricks that speedup deep learning. 
+# Answering my own questions
+
+## GPU related
+
+### Does GPU speed up linear layer?
+
+### Does GPU speed up RNN / LSTM / GRU layer?
